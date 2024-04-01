@@ -5,7 +5,6 @@ import schedule
 # import time
 
 
-
 def real_time_data_update():
 
     # Fetch stock data for Barclays PLC
