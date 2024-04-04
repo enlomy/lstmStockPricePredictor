@@ -32,7 +32,8 @@ samplecsv files included in seprate folder - "CSV FILES".
 -MRF Limited(MRF) - MRF_Stock_Prediction_Using_LSTM.ipynb
 
 ### Opening_Price_Prediction
-![Opening_Price_Prediction](Images/Openingpricepredictions.png)
+![Openingpricepredictions](https://github.com/libraiger/lstmStockPricePredictor/assets/48214830/a55e4faf-eb42-4e60-871a-96d515140d5d)
+
 
 ## For Stock data -
 
@@ -45,10 +46,12 @@ https://www.kaggle.com/camnugent/sandp500/data?select=individual_stocks_5yr - co
 Indian companies data - https://www.quandl.com/
 
 ### Detailed_visualisation_of_stocks
-![Detailed_visualisation_of_stocks](/Images/indepth-1.png)
+![indepth-1](https://github.com/libraiger/lstmStockPricePredictor/assets/48214830/5541ee7a-1c7c-41f0-a41a-9f537fdbe96c)
+
 
 ### TCS_Stock_Prediction
-![TCS_Stock_Prediction](/Images/TCS-stockpredicion3.png)
+![TCS-stockpredicion3](https://github.com/libraiger/lstmStockPricePredictor/assets/48214830/4cff3724-0ee2-4322-aeac-fd0661f6abda)
+
 
 ## Useful resources
 
@@ -59,4 +62,5 @@ Prediciting Opening and closing prices - SnehJain/Deep-Neural-Networks-For-Stock
 Combining Stock and Twitter Data(positive and negative comments) and Stock - viswa0531/StockMarketPredictionUsingML
 
 ### Complex_Stock_Visualisation 
-![Complex_Stock_Visualisation ](/Images/COMPLEXStocksvisualisation.png)
+![COMPLEXStocksvisualisation](https://github.com/libraiger/lstmStockPricePredictor/assets/48214830/d2062201-ba5c-4f25-955e-992aec0fa367)
+
