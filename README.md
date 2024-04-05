@@ -1,4 +1,4 @@
-# Stock Price Prediction For Barclays PLC 
+# Stock Price Prediction For Suzunoya PLC 
 
 ## Contents
 
